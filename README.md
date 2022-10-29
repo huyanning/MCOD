@@ -1,3 +1,3 @@
-# Memory-Calibrated Outlier Detection (MCOD)
+MCOD
 The implementation for "Memory-Calibrated Deep Outlier Detection by Contrastive Learning"
 
