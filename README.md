@@ -1,5 +1,5 @@
 MCOD
-The implementation for "Memory-Calibrated Deep Outlier Detection by Contrastive Learning"
+The implementation for "Unsupervised Outlier Detection Using Memory and Contrastive Learning"
 https://ieeexplore.ieee.org/document/9913887
 
 If you find this work useful in your research, please consider citing:
